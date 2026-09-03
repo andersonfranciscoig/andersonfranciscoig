@@ -1,236 +1,245 @@
-<div align="center">
-
-# Anderson Inglês Francisco
+# 👋 Hi, I'm Anderson Francisco
 
 ### Software Engineer · Backend & Distributed Systems
 
-Building scalable APIs, distributed architectures and production-ready backend systems.
+I build **scalable, reliable and production-ready software** with a strong focus on backend engineering, distributed systems and software architecture.
 
-[![GitHub](https://img.shields.io/badge/GitHub-andersonigfrancisco-181717?style=for-the-badge&logo=github)](https://github.com/andersonigfrancisco)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anderson%20Francisco-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anderson-francisco-14426b1b7/)
-[![Email](https://img.shields.io/badge/Email-andersonfranciscoig%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andersonfranciscoig@gmail.com)
+I have experience designing and developing **REST & GraphQL APIs, microservices, event-driven architectures and SaaS platforms**, working across different domains and international products.
 
-</div>
+My main strength is backend engineering, but I also work across the stack with **React and React Native**, allowing me to understand and contribute to products from the API and infrastructure layer all the way to the user experience.
 
 ---
 
-## 👨🏾‍💻 About Me
-
-I am a **Software Engineer focused on Backend Engineering and Distributed Systems**, with professional experience designing and developing scalable APIs, microservices and production systems.
-
-My work combines **software architecture, performance, scalability and clean engineering practices**, with experience across Node.js, TypeScript, .NET, PostgreSQL, MongoDB, Kafka, RabbitMQ, Redis and AWS.
-
-I have contributed to **corporate ERPs, international SaaS platforms and critical production systems**, working across different business domains and collaborating on architecture and backend evolution.
-
-> **My engineering focus:** turning complex business requirements into reliable, scalable and maintainable software.
-
----
-
-## ⚡ Engineering Profile
-
-| Area | Focus |
-|---|---|
-| 🧩 Backend | APIs REST/GraphQL, microservices, modular architectures |
-| 🏗️ Architecture | Distributed systems, Clean Architecture, domain-oriented design |
-| 🗄️ Data | PostgreSQL, MongoDB, SQL Server, data modelling & optimization |
-| 🔄 Messaging | Apache Kafka, RabbitMQ / MQ |
-| ⚡ Performance | Redis caching, scalability and high availability |
-| ☁️ Cloud | AWS, Docker |
-| 🛡️ Production | Critical systems, integrations and deployment environments |
-
----
-
-## 🛠️ Tech Stack
-
-### Backend
-<p><img src="https://skillicons.dev/icons?i=nodejs,typescript,nestjs,dotnet,cs,graphql" /></p>
-
-### Databases & Data
-<p><img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" /></p>
-
-### Cloud, DevOps & Infrastructure
-<p><img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,nginx,apache" /></p>
-
-### Messaging, Search & Tooling
-<p><img src="https://skillicons.dev/icons?i=kafka,rabbitmq,elasticsearch,git,github" /></p>
-
-### Web
-<p><img src="https://skillicons.dev/icons?i=javascript,html,css,php,jquery" /></p>
-
----
-
-## 🏗️ What I Build
+## 🚀 What I Do
 
 ```text
-Business Requirements
-        │
-        ▼
-┌──────────────────────────────┐
-│   Domain & Architecture      │
-│   Clean / Modular Design     │
-└──────────────┬───────────────┘
-               │
-               ▼
-┌──────────────────────────────┐
-│      APIs & Microservices    │
-│ Node.js · NestJS · .NET      │
-└──────────────┬───────────────┘
-               │
-       ┌───────┴────────┐
-       ▼                ▼
-   PostgreSQL        MongoDB
-       │                │
-       └───────┬────────┘
-               ▼
-     Kafka · RabbitMQ · Redis
-               │
-               ▼
-        Docker · AWS · K8s
+Backend Engineering
+        ↓
+Distributed Systems
+        ↓
+Microservices Architecture
+        ↓
+Event-Driven Systems
+        ↓
+APIs & Integrations
+        ↓
+Databases & Data Modeling
+        ↓
+Cloud & Infrastructure
+        ↓
+Web & Mobile Applications
 ```
+
+I enjoy solving problems where **performance, scalability, reliability and maintainability** matter.
+
+### Engineering Focus
+
+* 🏗️ Software Architecture
+* ⚙️ Backend Engineering
+* 🔄 Distributed Systems
+* 🧩 Microservices
+* 📨 Event-Driven Architecture
+* 🚀 API Design & Development
+* 🗄️ Database Architecture
+* ☁️ Cloud & Infrastructure
+* 📈 Performance & Scalability
+* 🔐 Enterprise & SaaS Applications
+* 📱 Web & Mobile Development
+
+---
+
+## 🛠️ Technology Stack
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square\&logo=nestjs\&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square\&logo=dotnet\&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square\&logo=csharp\&logoColor=white)
+
+### Frontend & Mobile
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square\&logo=postgresql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square\&logo=microsoftsqlserver\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square\&logo=redis\&logoColor=white)
+
+### Distributed Systems & Messaging
+
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square\&logo=apachekafka\&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square\&logo=rabbitmq\&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square\&logo=graphql\&logoColor=white)
+![REST](https://img.shields.io/badge/REST-02569B?style=flat-square)
+
+### Cloud, DevOps & Infrastructure
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square\&logo=amazonaws\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square\&logo=kubernetes\&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square\&logo=nginx\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+
+### Observability & Search
+
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square\&logo=elasticsearch\&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat-square\&logo=kibana\&logoColor=white)
+![Logstash](https://img.shields.io/badge/Logstash-005571?style=flat-square\&logo=logstash\&logoColor=white)
 
 ---
 
 ## 💼 Professional Experience
 
-### 🔵 Mirantes Technologies
-**Backend Engineer** · Luanda, Angola  
+### 🏢 Mirantes Technologies
+
+**Backend Engineer · Luanda, Angola**
 `Nov 2025 — Present`
 
-- Development of microservices using **Node.js and NestJS**
-- Design and implementation of distributed architectures
-- Relational database modelling with **PostgreSQL**
-- Definition and application of software architecture patterns
-- Service communication and domain organization
-- Development focused on scalability and performance
+Working on scalable backend systems and microservices-based architecture.
 
-**Core Stack:** `Node.js` `NestJS` `TypeScript` `PostgreSQL` `Microservices`
+* Developing microservices with **Node.js, NestJS and TypeScript**
+* Designing distributed systems
+* Working with **PostgreSQL**
+* Applying software architecture patterns
+* Designing communication between services and domains
+* Building systems with scalability and performance in mind
 
-### 🟢 Mamboo
-**Backend Engineer** · Luanda, Angola  
+---
+
+### 🏢 Mamboo
+
+**Backend Engineer · Luanda, Angola**
 `Apr 2024 — Nov 2025`
 
-- Development of scalable APIs with **Node.js and NestJS**
-- Modular architecture based on engineering best practices
-- **MongoDB** modelling and optimization
-- Application of **Clean Architecture**
-- Strongly typed TypeScript development
-- Contribution to versioning and code organization practices
+Contributed to the architecture and evolution of a scalable platform.
 
-**Core Stack:** `Node.js` `NestJS` `TypeScript` `MongoDB` `Clean Architecture`
+* Developed APIs with **Node.js and NestJS**
+* Applied modular architecture and Clean Architecture principles
+* Worked with **MongoDB**
+* Developed strongly typed applications with TypeScript
+* Contributed to software engineering and code organization practices
 
-### 🟣 Go Adopt LLC
-**Backend Engineer** · Orlando, USA  
+---
+
+### 🌎 Go Adopt LLC
+
+**Backend Engineer · Orlando, USA**
 `Sep 2022 — Nov 2023`
 
-Worked on an international SaaS platform for consent and privacy compliance supporting LGPD, GDPR and CCPA requirements.
+Worked on an international SaaS platform focused on privacy and regulatory compliance.
 
-- REST and GraphQL API development
-- Custom WordPress plugin integration
-- Scalable microservices
-- AWS deployment and environment management
-- PostgreSQL data modelling
-- Hasura integration
+* Designed and developed **REST & GraphQL APIs**
+* Built scalable microservices
+* Developed AWS-based deployments
+* Worked with PostgreSQL
+* Integrated Hasura
+* Developed a custom WordPress integration
 
-**Core Stack:** `Node.js` `TypeScript` `PostgreSQL` `AWS` `GraphQL` `REST` `Docker`
+**Product:** AdOpt — GDPR, LGPD, CCPA, PIPEDA & POPIA compliance platform.
 
-🔗 **Project:** [AdOpt / GoAdopt](https://goadopt.io/)
+---
 
-### 🟠 SNIR
-**Backend Engineer** · Luanda, Angola  
+### 🏢 SNIR
+
+**Backend Engineer · Luanda, Angola**
 `Jan 2020 — Sep 2022`
 
 Worked on a corporate insurance ERP for **Internacional Seguros S.A.**
 
-- Domain modelling for insurance, reinsurance and co-insurance
-- Backend APIs with **.NET Core**
-- Financial and claims modules
-- External system integrations
-- Backend architecture structuring
-
-**Core Stack:** `.NET Core` `C#` `Entity Framework` `SQL Server` `REST APIs`
+* Domain modeling for insurance, reinsurance and co-insurance
+* Developed APIs using **.NET Core**
+* Implemented financial and claims modules
+* Integrated external systems
+* Contributed to backend architecture
 
 ---
 
-## 🎓 Education
+## 🧠 How I Think About Software
 
-### Universidade Metodista de Angola — UMA
-**Engineering in Computer Science**  
-`2020 — 2025`
+> **Good software is not just code that works.**
+>
+> It should be understandable, maintainable, observable, scalable and aligned with the business problem it solves.
 
-Focus: **Information & Communication Technologies**
+I care about building systems that can evolve without becoming a bottleneck for the teams and products that depend on them.
 
-### Instituto Politécnico Industrial de Luanda — Makarenko
-**Technical Diploma in Informatics**
+---
+
+## 📌 Selected Areas of Experience
+
+| Area            | Experience                                               |
+| --------------- | -------------------------------------------------------- |
+| Backend         | Node.js · NestJS · .NET Core · TypeScript · C#           |
+| Architecture    | Microservices · Clean Architecture · Distributed Systems |
+| APIs            | REST · GraphQL                                           |
+| Messaging       | Apache Kafka · RabbitMQ                                  |
+| Databases       | PostgreSQL · MongoDB · MySQL · SQL Server                |
+| Caching         | Redis                                                    |
+| Cloud           | AWS                                                      |
+| DevOps          | Docker · Kubernetes · NGINX                              |
+| Frontend        | React · JavaScript · HTML · CSS                          |
+| Mobile          | React Native                                             |
+| Observability   | ELK Stack                                                |
+| Version Control | Git · GitHub                                             |
 
 ---
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=andersonigfrancisco&show_icons=true&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonigfrancisco&layout=compact&hide_border=true" height="165" />
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=andersonigfrancisco&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonigfrancisco&layout=compact&langs_count=8&hide_border=true&theme=transparent" />
-
-</div>
-
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=andersonigfrancisco&hide_border=true&theme=transparent" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=andersonigfrancisco&hide_border=true&area=true&bg_color=00000000&radius=12" width="95%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andersonigfrancisco&hide_border=true" />
+</p>
 
 ---
 
-## 🧠 Engineering Focus
+## 🎯 Currently Interested In
 
-```text
-Backend Engineering     ████████████████████
-Software Architecture   ███████████████████░
-Distributed Systems     ██████████████████░░
-API Design              ████████████████████
-Scalability             ███████████████████░
-Performance             ██████████████████░░
-Clean Architecture      ███████████████████░
-```
-
-<sub>These bars represent professional areas of focus, not automated GitHub measurements.</sub>
+* Distributed Systems
+* Backend Architecture
+* Microservices
+* Event-Driven Architecture
+* Cloud-native Applications
+* High-performance APIs
+* SaaS Platforms
+* Software Architecture
+* Developer Experience
 
 ---
 
-## 🌍 Languages
+## 🤝 Let's Connect
 
-- 🇵🇹 **Portuguese** — Native
-- 🇬🇧 **English** — B1
+I'm always interested in discussing **software engineering, architecture, backend systems, technology and challenging products**.
 
----
+If you're building something ambitious or looking for an engineer who can help design and scale production systems, let's talk.
 
-## 🚀 Current Focus
-
-`Distributed Systems` · `Microservices` · `Event-Driven Architecture` · `Backend Scalability` · `API Design` · `Database Performance` · `Cloud Infrastructure`
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
-**Open to meaningful engineering conversations, collaboration and opportunities.**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anderson-francisco-14426b1b7/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/andersonigfrancisco)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andersonfranciscoig@gmail.com)
-
-</div>
+<p align="left">
+  <a href="https://www.linkedin.com/in/anderson-francisco-14426b1b7/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:andersonfranciscoig@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/andersonigfrancisco">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-<div align="center">
-
-### "Build software that scales. Design systems that last."
-
-<sub>© Anderson Inglês Francisco</sub>
-
-</div>
+<p align="center">
+  <i>Building systems. Solving problems. Creating impact through technology.</i>
+</p>
